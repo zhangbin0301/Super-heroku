@@ -5,31 +5,27 @@
   "env": {
     "NEZHA_SERVER": {
        "description": "哪吒服务器地址",
-       "value": ""
+       "value": "nezha.tcguangda.eu.org"
      },
     "NEZHA_KEY": {
        "description": "哪吒密钥",
-       "value": ""
+       "value": "HkQWD0MnPsba1a32fv"
      },
     "ARGO_DOMAIN": {
        "description": "argo域名",
-       "value": ""
+       "value": "hk.tcgd002.cf"
      },
     "ARGO_AUTH": {
        "description": "argo_key",
-       "value": ""
+       "value": "eyJhIjoiNGU4OWE4MzZkOTkwY2E0NGVhNzQyZTdjODFjMDE4OTMiLCJ0IjoiYWI1YjkxNmYtZDAyZS00OWZhLWExNDItZTUzM2RiYmIyNjk5IiwicyI6Ik1EYzVaRFUyWmpBdE5qVXdPQzAwTkRabUxXSXpaR010TkdVeU16RXdaR1EzWWpVeCJ9"
      },
    "SUB_NAME": {
        "description": "服务器名称",
-       "value": ""
-     },
-    "SUB_URL": {
-       "description": "订阅上传地址",
-       "value": ""
+       "value": "heroku"
      },
     "UUID": {
        "description": "uuid",
-       "value": ""
+       "value": "78887e7a-d12f-4469-8713-c9eba7d3ce16"
      }
   },
   "stack": "container",
