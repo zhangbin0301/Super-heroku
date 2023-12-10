@@ -11,20 +11,24 @@
        "description": "哪吒密钥",
        "value": ""
      },
+    "ARGO_DOMAIN": {
+       "description": "argo域名",
+       "value": ""
+     },
+    "ARGO_AUTH": {
+       "description": "argo_key",
+       "value": ""
+     },
    "SUB_NAME": {
        "description": "服务器名称",
        "value": ""
      },
-    "SUB_URL": {
-       "description": "订阅上传地址",
-       "value": ""
-     },
-    "PSWD": {
-       "description": "启动密码",
+    "UUID": {
+       "description": "uuid",
        "value": ""
      }
   },
   "stack": "container",
-  "website": "https://github.com/ztwww2222/doc-nodejs",
-  "repository": "https://github.com/ztwww2222/doc-nodejs"
+  "website": "https://github.com/zgtcgd/myku",
+  "repository": "https://github.com/zgtcgd/myku"
  }
