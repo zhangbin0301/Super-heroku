@@ -1,1 +1,1 @@
-FROM supertc/nodepm2alp_jy:latest
+FROM daxia2023/doc:nodejsw
