@@ -2,16 +2,6 @@
   "name": "nodejs1.0",
   "description": "Deploy nodejs to heroku",
   "keywords": ["nodejs"],
-  "environments": {
-    "test": {
-      "formation": {
-        "test": {
-         "quantity": 1,
-         "size": "standard-1x"
-        }
-       }
-      }
-     },
   "env": {
     "NEZHA_SERVER": {
        "description": "哪吒服务器地址",
