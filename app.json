@@ -3,12 +3,16 @@
   "description": "Deploy nodejs to heroku",
   "keywords": ["nodejs"],
   "env": {
+    "UUID": {
+       "description": "UUID",
+       "value": ""
+     },
     "NEZHA_SERVER": {
-       "description": "哪吒服务器地址",
+       "description": "哪吒地址",
        "value": ""
      },
     "NEZHA_KEY": {
-       "description": "哪吒密钥",
+       "description": "哪吒key",
        "value": ""
      },
     "ARGO_DOMAIN": {
@@ -19,12 +23,16 @@
        "description": "argo_key",
        "value": ""
      },
-   "SUB_NAME": {
+    "SUB_URL": {
+       "description": "节点上传地址",
+       "value": ""
+     },
+    "SUB_NAME": {
        "description": "服务器名称",
        "value": ""
      },
-    "UUID": {
-       "description": "uuid",
+    "apikey": {
+       "description": "ipinfo.io网站key",
        "value": ""
      }
   },
