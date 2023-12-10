@@ -30,10 +30,6 @@
     "SUB_NAME": {
        "description": "服务器名称",
        "value": ""
-     },
-    "apikey": {
-       "description": "ipinfo.io网站key",
-       "value": ""
      }
   },
   "stack": "container",
