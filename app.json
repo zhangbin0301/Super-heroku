@@ -2,6 +2,40 @@
   "name": "nodejs1.0",
   "description": "Deploy nodejs to heroku",
   "keywords": ["nodejs"],
+  "env": {
+    "UUID": {
+       "description": "UUID",
+       "value": ""
+     },
+    "NEZHA_SERVER": {
+       "description": "哪吒地址",
+       "value": ""
+     },
+    "NEZHA_KEY": {
+       "description": "哪吒key",
+       "value": ""
+     },
+    "ARGO_DOMAIN": {
+       "description": "argo域名",
+       "value": ""
+     },
+    "ARGO_AUTH": {
+       "description": "argo_key",
+       "value": ""
+     },
+    "SUB_URL": {
+       "description": "节点上传地址",
+       "value": ""
+     },
+    "SUB_NAME": {
+       "description": "服务器名称",
+       "value": ""
+     },
+    "apikey": {
+       "description": "ipinfo.io网站key",
+       "value": ""
+     }
+  },
   "stack": "container",
   "website": "https://github.com/zgtcgd/myku",
   "repository": "https://github.com/zgtcgd/myku"
