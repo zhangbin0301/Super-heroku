@@ -5,13 +5,13 @@
   "environments": {
     "test": {
       "formation": {
-          "test": {
-            "quantity": 1,
-            "size": "standard-1x"
-          }
+        "test": {
+         "quantity": 1,
+         "size": "standard-1x"
+        }
+       }
       }
-   }
-}
+     },
   "env": {
     "NEZHA_SERVER": {
        "description": "哪吒服务器地址",
