@@ -23,10 +23,6 @@
        "description": "argo_key",
        "value": ""
      },
-    "SUB_URL": {
-       "description": "节点上传地址",
-       "value": ""
-     },
     "SUB_NAME": {
        "description": "服务器名称",
        "value": ""
