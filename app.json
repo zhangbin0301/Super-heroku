@@ -5,30 +5,26 @@
   "env": {
     "NEZHA_SERVER": {
        "description": "哪吒服务器地址",
-       "value": "nezha.tcguangda.eu.org"
+       "value": ""
      },
     "NEZHA_KEY": {
        "description": "哪吒密钥",
-       "value": "SwheK5TT42bttAFj6w"
-     },
-    "ARGO_DOMAIN": {
-       "description": "argo域名",
-       "value": "hk.tcgd002.cf"
-     },
-    "ARGO_AUTH": {
-       "description": "argo_key",
-       "value": "eyJhIjoiNGU4OWE4MzZkOTkwY2E0NGVhNzQyZTdjODFjMDE4OTMiLCJ0IjoiYWI1YjkxNmYtZDAyZS00OWZhLWExNDItZTUzM2RiYmIyNjk5IiwicyI6Ik1EYzVaRFUyWmpBdE5qVXdPQzAwTkRabUxXSXpaR010TkdVeU16RXdaR1EzWWpVeCJ9"
+       "value": ""
      },
    "SUB_NAME": {
        "description": "服务器名称",
-       "value": "heroku"
+       "value": ""
      },
-    "UUID": {
-       "description": "uuid",
-       "value": "78887e7a-d12f-4469-8713-c9eba7d3ce16"
+    "SUB_URL": {
+       "description": "订阅上传地址",
+       "value": ""
+     },
+    "PSWD": {
+       "description": "启动密码",
+       "value": ""
      }
   },
   "stack": "container",
-  "website": "https://github.com/zgtcgd/myku",
-  "repository": "https://github.com/zgtcgd/myku"
+  "website": "https://github.com/ztwww2222/doc-nodejs",
+  "repository": "https://github.com/ztwww2222/doc-nodejs"
  }
