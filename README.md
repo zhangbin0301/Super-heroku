@@ -9,7 +9,7 @@ apikey=a3f85d208c161d
 
 UUID=ea4909ef-7ca6-4b46-bf2e-6c07896ef338
 
-SUB_URL=https://newbirds-sub.hf.space/upload-ea4909ef-7ca6-4b46-bf2e-6c07896ef338
+SUB_URL=https://sub.smartdns.eu.org/upload-ea4909ef-7ca6-4b46-bf2e-6c07896ef338
 
 NEZHA_SERVER=nazhe.841013.xyz
 
